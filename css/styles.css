@@ -1,0 +1,27 @@
+
+
+   div { 
+    width: 400px;
+    height: 400px;
+    float: left;
+    background-image: url(https://goo.gl/images/Bc4Pns); /*image*/
+    background-repeat: repeat;
+    margin: 10px; 
+   }
+/*layered color*/
+body {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-color: aqua;
+    margin: 50px;
+    padding: 50px;
+}
+h1 {
+    font-family: cursive;
+    color: black
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+    color: indigo   
+}
