@@ -43,5 +43,6 @@ h2{
 p {
     font-family: 'Courier New', Courier, monospace;
     color: blue; 
-    font-size: 70%;  
+    font-size: 70%;
+    padding-bottom: 50px;  
 }
