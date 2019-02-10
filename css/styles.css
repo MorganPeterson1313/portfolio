@@ -68,7 +68,7 @@ opacity: 0.5;
 filter: opacity(50);
 object-fit: cover;
 background-blend-mode: luminosity;
-
+border-radius: 50%;
 background-repeat: repeat;
 
 
