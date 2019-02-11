@@ -59,7 +59,7 @@ h3{
 p {
     font-family: 'Courier New', Courier, monospace;
     color: aqua; 
-    font-size: 30px;
+    font-size: 50px;
     padding-bottom: 50px;  
 }
 span {
@@ -68,13 +68,29 @@ span {
     
 }
 #world {
-width: 100%;
-height: 400px;
+max-width: 100%;
+height: auto;
 
 
 
-border-radius: 50%;
+border-radius: 60%;
 background-repeat: repeat;
 
 
+}
+
+.button1 {
+    border-radius: 50px;
+    background-color: rgb(83, 56, 14);
+    text-align: center;
+    display: inline-block;
+    color: aqua;
+}
+.button2{
+    border-radius: 50px;
+    background-color: rgb(92, 63, 20);
+    text-align: center;
+    display: inline-block;
+    color: aqua;
+    text-decoration: aqua;
 }
